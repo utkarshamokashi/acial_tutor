@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "537348068769",
+    "project_id": "resonate-attendance",
+    "storage_bucket": "resonate-attendance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537348068769:android:df65b1e7a397a36dc1e7e0",
+        "android_client_info": {
+          "package_name": "com.example.resonate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537348068769-l0gt9rfnuknlsiftqkrop4pamk2m2kl6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhqUMOFFmUkS1UiYxsK85V0iWlfC8GT2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537348068769-l0gt9rfnuknlsiftqkrop4pamk2m2kl6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
