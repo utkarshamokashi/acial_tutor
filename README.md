@@ -1,5 +1,5 @@
 
-<h1 align="center">&#128214;Acial Tutor</h1><br><br>
+<h1 align="center"> Acial Tutor  &#128241</h1><br><br>
 
 ## :pushpin: About the Project
 
@@ -14,11 +14,11 @@
 
 ## :pushpin: Tools & Library
 
-:pencil:[`Flutter`](https://flutter.dev/)<br>
-:pencil:[`Firebase`](https://firebase.google.com/)<br>
-:pencil:[`OpenCV`](https://www.npmjs.com/package/react-collapsible)<br>
-:pencil:[`Dart`](https://dart.dev/overview)<br>
-:pencil:[`Python`](https://pypi.org/project/face-recognition/)
+:paperclip:[`Flutter`](https://flutter.dev/)<br>
+:paperclip:[`Firebase`](https://firebase.google.com/)<br>
+:paperclip:[`OpenCV`](https://www.npmjs.com/package/react-collapsible)<br>
+:paperclip:[`Dart`](https://dart.dev/overview)<br>
+:paperclip:[`Python`](https://pypi.org/project/face-recognition/)
 <br><br><hr>
 
 
