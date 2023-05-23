@@ -24,21 +24,17 @@
 
 ## :pushpin: Contributors GitHub Id
 
-##### &emsp;&emsp;&emsp; :black_nib:Aditi Singh Bisht:&nbsp;&nbsp;&nbsp;[aditisb](https://github.com/aditisb)
+##### &emsp;&emsp;&emsp; :black_nib: Aditi Singh Bisht:&nbsp;&nbsp;&nbsp;[aditisb](https://github.com/aditisb)
 
-##### &emsp;&emsp;&emsp; :black_nib:Krithika Naidu:&nbsp;&nbsp;&nbsp;[Kri-hika](https://github.com/Kri-hika)
+##### &emsp;&emsp;&emsp; :black_nib: Krithika Naidu:&nbsp;&nbsp;&nbsp;[Kri-hika](https://github.com/Kri-hika)
 
-##### &emsp;&emsp;&emsp; :black_nib:Manasvi Sabnis:&emsp;&nbsp;&nbsp;[ManasviSabnis](https://github.com/ManasviSabnis)
+##### &emsp;&emsp;&emsp; :black_nib: Manasvi Sabnis:&emsp;&nbsp;&nbsp;[ManasviSabnis](https://github.com/ManasviSabnis)
 
-##### &emsp;&emsp;&emsp; :black_nib:Utkarsha Mokashi:&emsp;&nbsp;[utkarshamokashi](https://github.com/utkarshamokashi)
+##### &emsp;&emsp;&emsp; :black_nib: Utkarsha Mokashi:&emsp;&nbsp;[utkarshamokashi](https://github.com/utkarshamokashi)
 
 <br><hr>
 
 ## :pushpin: Images
-![1](https://github.com/utkarshamokashi/acial_tutor/assets/65499431/f347496c-6a02-4904-83a6-1a6772dd79c5)
-![2](https://github.com/utkarshamokashi/acial_tutor/assets/65499431/bbadfb9d-96d6-49df-b047-496d2113f528)
-![3](ht![4](https://github.com/utkarshamokashi/acial_tutor/assets/65499431/8a67fefa-c2de-4a76-8c6d-fa56ea36ccb8)
-![4](https://github.com/utkarshamokashi/acial_tutor/assets/65499431/c5cefae9-fe99-4b75-b96e-169e09303720)
-![5](https://github.com/utkarshamokashi/acial_tutor/assets/65499431/df17f623-f9b2-442b-a78a-cc80fff7e4e6)
+<img src="imgs/1.jpeg" alt="mypic" style="width: 20%; height: 20%"/> <img src="imgs/2.jpeg" alt="mypic" style="width: 20%; height: 20%"/> <img src="imgs/3.jpeg" alt="mypic" style="width: 20%; height: 20%"/> <img src="imgs/4.jpeg" alt="mypic" style="width: 20%; height: 20%"/> <img src="imgs/5.jpeg" alt="mypic" style="width: 20%; height: 20%"/>
 
 
